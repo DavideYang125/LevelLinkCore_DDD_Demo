@@ -30,7 +30,7 @@ namespace LevelLinkCore.Infrastructure
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             //配置连接字符串
-            optionsBuilder.UseMySql("server=192.168.1.33;user id=root;password=rootroot;database=deyouyun_level_link_core_dev;");
+            optionsBuilder.UseMySql("server=;user id=root;password=;database=level_link_core_dev;");
         }
     }
 }
