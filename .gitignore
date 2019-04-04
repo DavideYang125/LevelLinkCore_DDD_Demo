@@ -1,0 +1,10 @@
+LevelLinkCore.Application/obj/Debug/
+LevelLinkCore.Consoles/bin/Debug/
+LevelLinkCore.Domain/obj/Debug/
+LevelLinkCore.Infrastructure/bin/Debug/
+LevelLinkCore.Web/bin/Debug/
+LevelLinkCore.Web/obj/Debug/
+LevelLinkCore.Application/bin/Debug/
+LevelLinkCore.Consoles/obj/Debug/
+LevelLinkCore.Infrastructure/obj/Debug/
+.vs/

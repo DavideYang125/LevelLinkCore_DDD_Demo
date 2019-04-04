@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LevelLinkCore.Infrastructure\LevelLinkCore.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="LevelLinkCore.Application">
+      <HintPath>..\LevelLinkCore.Application\bin\Debug\netcoreapp2.1\LevelLinkCore.Application.dll</HintPath>
+    </Reference>
+    <Reference Include="LevelLinkCore.Domain">
+      <HintPath>..\LevelLinkCore.Domain\bin\Debug\netcoreapp2.1\LevelLinkCore.Domain.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
