@@ -8,3 +8,8 @@ LevelLinkCore.Application/bin/Debug/
 LevelLinkCore.Consoles/obj/Debug/
 LevelLinkCore.Infrastructure/obj/Debug/
 .vs/
+LevelLinkCore.Application/obj/
+LevelLinkCore.Consoles/obj/
+LevelLinkCore.Domain/obj/
+LevelLinkCore.Infrastructure/obj/
+LevelLinkCore.Web/obj/
